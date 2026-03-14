@@ -1,0 +1,9 @@
+python send_outreach.py \
+--csv sample_influencers.csv \
+--subject-template "templates/default_subject.txt" \
+--body-template "templates/default_body.txt" \
+--sender-name "Yukthi Dwivedi" \
+--company "Zapier" \
+--signature "yukthidwivedi.com" \
+--dry-run \
+--limit 3
