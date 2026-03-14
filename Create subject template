@@ -1,0 +1,1 @@
+echo "Collab idea for your audience on {recent_post_topic}" > templates/default_subject.txt
