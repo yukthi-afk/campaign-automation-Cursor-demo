@@ -1,0 +1,15 @@
+cat > templates/default_body.txt << 'EOF'
+Hi {first_name},
+
+I'm {sender_name} from {company}. I've been following your work on {recent_post_topic} and love how you connect with your audience.
+
+{pitch}
+
+I'd love to explore a collaboration — whether that's a content series, a product walkthrough, or a single deep-dive piece.
+
+I can share a brief with ideas, timelines, and exactly what we'll handle on our end.
+
+Thanks,
+{sender_name}
+{signature}
+EOF
